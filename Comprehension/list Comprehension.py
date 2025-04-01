@@ -77,14 +77,17 @@
 # print(result)
 
 
-"""Advanatges of list Comprehension:
-1. less code writing
-2. faster execution than loop
-3. improve performance
-4. easier filtering
-5. memoey friendly
-6. easy to understand
-7. 
+"""Advantages of comprehension-
+# 1)less code writing
+# 2)faster execution
+# 3)improve performance
+# 4)easier filterining
+# 5)memory efficiency
+# 6)Short and Simple Code 
+# 7)Faster than Loops
+# 8)Easy to Understand
+# 9)Less Mistakes
+# 10)Memory Friendly
 """
 
 
