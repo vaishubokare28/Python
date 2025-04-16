@@ -28,6 +28,7 @@ def check_age(age):
 
 #Step 3: Handle the exception
 
+
 try:
  check_age(-5)
 except InvalidAgeError as e:

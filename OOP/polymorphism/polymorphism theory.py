@@ -1,10 +1,10 @@
 ''' Polymorphism - many forms
 
 Types:
-1. comple time polymorphism 
+1. compile time polymorphism 
 2. run time polymorphism 
 
-1) comple time polymorphism 
+1) compile time polymorphism 
 a. method overloading
 b. operator overloading
 ##Python does not support method overloading and operator overloading
